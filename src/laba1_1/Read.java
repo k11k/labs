@@ -2,7 +2,7 @@ package laba1_1;
 import java.util.Scanner;
 public class Read 
 {
-	public int Reading(String[] args) 
+	public int Reading() 
 	{
 		Scanner sc = new Scanner(System.in); // создаём объект класса Scanner
 	    int i = 2;
