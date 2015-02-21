@@ -17,5 +17,4 @@ public class Rectangle
 	 {
 		 return (weight+hight)*2;
 	 }
-
 }
