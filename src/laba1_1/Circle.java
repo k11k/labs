@@ -6,11 +6,11 @@ public class Circle
 	{
 		Read read=new Read();
 		int radius=read.Reading(); 
-        Circleference circleference=new Circleference(radius);
-        System.out.println("Стоимость ограды");
-        System.out.println(circleference.CostBarriers());
-        System.out.println("стоимость дорожки");
-        System.out.println(circleference.CostConcreting()); 
+        	Circleference circleference=new Circleference(radius);
+	        System.out.println("Г‘ГІГ®ГЁГ¬Г®Г±ГІГј Г®ГЈГ°Г Г¤Г»");
+	        System.out.println(circleference.CostBarriers());
+	        System.out.println("Г±ГІГ®ГЁГ¬Г®Г±ГІГј Г¤Г®Г°Г®Г¦ГЄГЁ");
+	        System.out.println(circleference.CostConcreting()); 
 	}
 
 }
